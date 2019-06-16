@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">	
+<url>
+<loc>http://blog.apologizebao.cn</loc>
+<priority>1.00</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://blog.apologizebao.cn/blog/1137615315333550082.html</loc>
+<priority>0.5</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://blog.apologizebao.cn/blog/1137563795171033090.html</loc>
+<priority>0.5</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://blog.apologizebao.cn/about.html</loc>
+<priority>0.5</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://blog.apologizebao.cn/blog/1137563687134150657.html</loc>
+<priority>0.5</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://blog.apologizebao.cn/blog/1137553067026407425.html</loc>
+<priority>0.5</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://blog.apologizebao.cn/blog/1137563705249349634.html</loc>
+<priority>0.5</priority>
+<lastmod>2019-06-15</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+</urlset>
+
