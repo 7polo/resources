@@ -12,4 +12,4 @@ git commit -m "update"
 git push origin
 git push gitee
 
-echo "update suceess"
+echo "\e[1;36mUpdate Success\e[0m"
